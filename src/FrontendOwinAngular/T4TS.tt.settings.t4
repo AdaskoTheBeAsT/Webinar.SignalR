@@ -10,7 +10,7 @@ readonly Dictionary<string, object> SettingsValues = new Dictionary<string, obje
     // will belong to this module (may be empty, in which case the 
     // interface will be globally accessible).
     // Type: string, defaults to "T4TS" if not specified.
-    { "DefaultModule", Server },
+    { "DefaultModule", "Server" },
 
     // The default value for the Optional flag for an interface member.
     // If not specified by the TypeScriptInterfaceAttribute, the Optional
