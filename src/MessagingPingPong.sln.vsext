@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution>
+  <Profile Name="Master" IsDefault="false" SingleStartProjectGuid="">
+    <Include>
+      <Project Guid="ec990665-e0ae-4a0e-975f-4add8df7ef2b" />
+      <Project Guid="e8974b86-f7cf-4e0d-a400-2434c1037d88" />
+      <Project Guid="1235f8a1-d17b-4977-b9ab-6da53948e7f1" />
+      <Project Guid="51d88507-beb6-4b16-8916-85cc0b861b0b" />
+      <Project Guid="2522d520-a81b-4e5a-9a88-e858b447a262" />
+    </Include>
+  </Profile>
+</Solution>
