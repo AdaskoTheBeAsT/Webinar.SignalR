@@ -1,4 +1,4 @@
-/// <reference path="../../typings/main.d.ts" />
+/// <reference path="../../typings/index.d.ts" />
 
 import { config } from './index.config';
 import { routerConfig } from './index.route';
@@ -12,7 +12,7 @@ import { acmeMalarkey } from '../app/components/malarkey/malarkey.directive';
 declare var malarkey: any;
 declare var moment: moment.MomentStatic;
 
-module frontendOwinAngular {
+namespace frontendOwinAngular {
   'use strict';
 
   angular.module('frontendOwinAngular', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'ngMessages', 'ngAria', 'restangular', 'ui.router', 'ui.bootstrap', 'toastr'])
